@@ -11,7 +11,7 @@
     echo "I am $age years old";
 
     define("BIRTHYEAR", 2004);
-    echo "<br>I was born in " . BIRTHYEAR . "<br>";
+    echo "<br>I was boorn in " . BIRTHYEAR . "<br>";
 
     $blah = "blahhhhhhhhhhhhh";
     echo strtoupper($blah);
